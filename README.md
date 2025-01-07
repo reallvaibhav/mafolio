@@ -1,2 +1,0 @@
-# mafolio
-sums upto myportfolio
